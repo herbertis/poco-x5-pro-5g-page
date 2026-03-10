@@ -6,6 +6,8 @@
 
 Este projeto consiste no desenvolvimento de uma **Landing Page de produto para o POCO X5 Pro 5G**, inspirada nos padrões visuais utilizados em páginas oficiais de lançamento de smartphones e vitrines de e-commerce.
 
+A página foi desenvolvida para **apresentação e venda do produto em marketplaces e nos canais oficiais da Xiaomi Brasil**, incluindo vitrines digitais utilizadas em parceiros como a **Kabum**.
+
 O objetivo foi criar uma interface moderna, visualmente impactante e altamente responsiva, capaz de destacar os principais diferenciais do dispositivo através de **hierarquia visual clara, seções imersivas e storytelling visual do produto**.
 
 A página foi construída com foco em **performance, design responsivo e experiência do usuário**, simulando a estrutura utilizada em páginas de produto de grandes marcas de tecnologia.
@@ -41,14 +43,14 @@ Principais princípios aplicados:
 
 ## 📈 O Impacto (Business Value)
 
-A construção desta landing page demonstra como **design e front-end podem aumentar a percepção de valor de produtos tecnológicos**.
+A construção desta landing page demonstra como **design e front-end podem aumentar a percepção de valor de produtos tecnológicos**, especialmente em ambientes de e-commerce e marketplaces.
 
 Principais benefícios desta abordagem:
 
 1. **Valorização do Produto:** Layout moderno que reforça o posicionamento premium do smartphone.
 2. **Melhoria da Experiência do Usuário:** Navegação clara e intuitiva.
 3. **Engajamento Visual:** Seções visuais que incentivam a exploração da página.
-4. **Compatibilidade com E-commerce:** Estrutura que pode ser facilmente integrada a plataformas de venda.
+4. **Compatibilidade com Marketplaces:** Estrutura preparada para integração com plataformas de venda como Kabum e canais oficiais da Xiaomi Brasil.
 
 ## 👨‍💻 Autor
 
