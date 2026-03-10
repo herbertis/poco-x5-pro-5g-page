@@ -1,105 +1,60 @@
-📱 POCO X5 Pro 5G – Landing Page
+# 📱 POCO X5 Pro 5G - Product Landing Page
 
-Landing page desenvolvida para apresentação do POCO X5 Pro 5G, com foco em design moderno, responsividade e experiência do usuário.
+[Preview do Projeto](https://herbertis.github.io/poco-x5-pro-5g/)
 
-O projeto simula uma página de produto utilizada em e-commerce ou páginas oficiais de lançamento, com destaque para especificações técnicas, design visual e performance do dispositivo.
+## 💻 Sobre o Projeto
 
-O POCO X5 Pro 5G (codename: redwood) é um smartphone lançado em 2023 com processador Snapdragon 778G, tela AMOLED de 6.67" e câmera principal de 108MP.
+Este projeto consiste no desenvolvimento de uma **Landing Page de produto para o POCO X5 Pro 5G**, inspirada nos padrões visuais utilizados em páginas oficiais de lançamento de smartphones e vitrines de e-commerce.
 
-🚀 Demo
+O objetivo foi criar uma interface moderna, visualmente impactante e altamente responsiva, capaz de destacar os principais diferenciais do dispositivo através de **hierarquia visual clara, seções imersivas e storytelling visual do produto**.
 
-🔗 https://herbertis.github.io/poco-x5-pro-5g/
+A página foi construída com foco em **performance, design responsivo e experiência do usuário**, simulando a estrutura utilizada em páginas de produto de grandes marcas de tecnologia.
 
-🧩 Tecnologias Utilizadas
+## 🚀 Principais Funcionalidades (Features)
 
-HTML5
+* **Hero Section Impactante:** Destaque inicial do produto com foco em branding, design e posicionamento premium.
+* **Storytelling Visual do Produto:** Seções dedicadas que apresentam os principais diferenciais do smartphone como câmera, performance e display.
+* **Layout Inspirado em Product Pages de Tech Brands:** Estrutura semelhante a páginas utilizadas por grandes fabricantes de smartphones e eletrônicos.
+* **Design Responsivo:** Interface totalmente adaptável para **Mobile, Tablet e Desktop**.
+* **Seções Visuais de Especificações:** Organização clara das informações técnicas com foco em legibilidade e escaneabilidade.
+* **Performance Front-end:** Estrutura leve sem dependência de frameworks pesados.
 
-CSS3
+## 🛠️ Tecnologias Utilizadas
 
-JavaScript
+Neste projeto, optei por uma abordagem limpa e de alta performance, sem dependência de frameworks pesados para o front-end:
 
-Responsive Design
+* **HTML5:** Estrutura semântica e organização da página.
+* **CSS3:** Flexbox, CSS Grid, responsividade, animações e variáveis CSS.
+* **JavaScript (Vanilla):** Manipulação de DOM e interações da interface.
+* **Responsive Design:** Media Queries para adaptação em múltiplos dispositivos.
 
-Layout Mobile First
+## 🎨 Abordagem de Design (UI/UX)
 
-Grid & Flexbox
+Como profissional que une **Design e Desenvolvimento Front-end**, o foco desta landing page foi criar uma experiência visual que valorize o produto e facilite a navegação do usuário.
 
-🎯 Objetivo do Projeto
+Principais princípios aplicados:
 
-Este projeto foi desenvolvido para:
+1. **Hierarquia Visual:** Organização das seções para destacar os diferenciais do produto.
+2. **Design Orientado à Escaneabilidade:** Conteúdo estruturado para leitura rápida.
+3. **Experiência Mobile First:** Interface pensada inicialmente para dispositivos móveis.
+4. **Estética Tecnológica:** Visual alinhado com padrões de marcas globais de tecnologia.
 
-Criar uma landing page de produto moderna
+## 📈 O Impacto (Business Value)
 
-Aplicar boas práticas de UI/UX
+A construção desta landing page demonstra como **design e front-end podem aumentar a percepção de valor de produtos tecnológicos**.
 
-Demonstrar estrutura de front-end limpa
+Principais benefícios desta abordagem:
 
-Simular páginas utilizadas em e-commerces e marketplaces
+1. **Valorização do Produto:** Layout moderno que reforça o posicionamento premium do smartphone.
+2. **Melhoria da Experiência do Usuário:** Navegação clara e intuitiva.
+3. **Engajamento Visual:** Seções visuais que incentivam a exploração da página.
+4. **Compatibilidade com E-commerce:** Estrutura que pode ser facilmente integrada a plataformas de venda.
 
-Trabalhar design responsivo para múltiplos dispositivos
+## 👨‍💻 Autor
 
-📱 Features da Página
+**Herbert Sousa**
 
-Hero section com destaque do produto
+UI Engineer | Product Designer | Front-end Developer
 
-Sessão de especificações técnicas
-
-Seções visuais de marketing do produto
-
-Layout responsivo (Desktop / Tablet / Mobile)
-
-Estrutura semântica de HTML
-
-Código organizado e fácil de manter
-
-📂 Estrutura do Projeto
-poco-x5-pro-5g
-│
-├── index.html
-├── css
-│   └── style.css
-│
-├── js
-│   └── script.js
-│
-└── assets
-    ├── images
-    └── icons
-
-📸 Preview
-<img src="assets/preview.png" alt="POCO X5 Pro Landing Page Preview">
-🧠 Aprendizados
-
-Durante o desenvolvimento deste projeto foram aplicados conceitos como:
-
-Estruturação de landing pages
-
-Hierarquia visual
-
-Design orientado a conversão
-
-Responsividade e adaptação mobile
-
-Organização de código front-end
-
-💼 Aplicação Profissional
-
-Este projeto foi desenvolvido como estudo de UI e Front-end aplicado a páginas de produto, semelhante às páginas utilizadas em:
-
-E-commerces
-
-Marketplaces
-
-Lançamentos de produtos
-
-Páginas institucionais de tecnologia
-
-👨‍💻 Autor
-
-Herbert Sousa
-
-UI Engineer | Product Designer & Front-end Developer
-
+GitHub: https://github.com/herbertis  
 LinkedIn: https://linkedin.com/in/herbert-sousa
-
-GitHub: https://github.com/herbertis
