@@ -1,6 +1,6 @@
 # 📱 POCO X5 Pro 5G - Product Landing Page
 
-[Preview do Projeto](https://herbertis.github.io/poco-x5-pro-5g/)
+[Preview do Projeto](https://herbertis.github.io/poco-x5-pro-5g-page/)
 
 ## 💻 Sobre o Projeto
 
